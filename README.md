@@ -2,6 +2,8 @@
 
 A responsive, static portfolio focused on Java backend development, Spring Boot, APIs, databases, and cloud deployment. Built with HTML, CSS, and vanilla JavaScript.
 
+Vercel Deployed Link : [jayeshportfolio-8ekytv2u1-jayesh-patil03s-projects.vercel.app](https://jayeshportfolio-lemon.vercel.app/)
+
 ## Run locally
 
 1. Open this folder in VS Code.
